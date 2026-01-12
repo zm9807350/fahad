@@ -5,7 +5,7 @@
   ],
   "routes": [
     { "src": "/zebe", "dest": "/zebe.js" },
-    { "src": "/sultan", "dest": "/zebe.js" },
+    { "src": "/sultan", "dest": "/sultan.js" },
     { "src": "/maaz", "dest": "/maaz.js" },
     { "src": "/qaisar", "dest": "/qaisar.js" },
     { "src": "/Hamid", "dest": "/Hamid.js" },
